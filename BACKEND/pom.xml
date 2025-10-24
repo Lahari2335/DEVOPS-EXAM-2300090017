@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>BACKEND</name>
 	<description>Demo project for Spring Boot</description>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<url/>
 	<licenses>
 		<license/>
@@ -56,10 +56,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+
 	</dependencies>
 
 	<build>
-		<finalName>voterbackend</finalName>
+		<finalName>2300090017-backend</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
